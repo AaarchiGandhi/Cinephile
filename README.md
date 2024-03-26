@@ -1,4 +1,4 @@
-# Movie-Central-A-Single-Page-App-using-TMDB
+# Cinephile
 
 ## Project Overview
 
