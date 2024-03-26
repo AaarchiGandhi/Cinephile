@@ -15,7 +15,7 @@ Currently, the application fetches and displays the following data for each tren
 
 I have used SnackBarService to show messages at the bottom of the application with swiping enabled. I have also used this service to prevent users from accessing the favorite module once they have logged out.
 
-I am still under development, but I am excited to continue adding new features and functionality to Movie-Central-A-Single-Page-App-using-TMDB. I hope that this application will become a valuable resource for movie lovers of all ages.
+I am still under development, but I am excited to continue adding new features and functionality to Movie-Hub-Application. I hope that this application will become a valuable resource for movie lovers of all ages.
 
 ## Pro-Tip :
 Go to https://github1s.com/AAARCHIGANDHI/MOVIE-CRUISER-SPA-USING-TMDB-3RD-PARTY-API- for browsing through the code in the browser itself.

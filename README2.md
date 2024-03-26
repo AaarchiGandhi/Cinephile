@@ -1,6 +1,6 @@
 # Introduction
 
-Movie-Central-A-Single-Page-App-using-TMDB is a simple application that lets you browse the trending movies, search for movies and adds them as favourite to your dashboard.
+fMovie-Hub-Application is a simple application that lets you browse the trending movies, search for movies and adds them as favourite to your dashboard.
 
 # Getting Started
 
