@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-Movie-Central-A-Single-Page-App-using-TMDB: A Personal Movie Database
+Cinephile: A Personal Movie Database
 
-Movie-Central-A-Single-Page-App-using-TMDB is a single-page application (SPA) that allows users to search for and browse movies from the TMDB API. Users can also create an account and add their favorite movies to a watchlist. The application features a login module, a trending movies module, a search module, a logout module, and an add to favorites module.
+Cinephile is a single-page application (SPA) that allows users to search for and browse movies from the TMDB API. Users can also create an account and add their favorite movies to a watchlist. The application features a login module, a trending movies module, a search module, a logout module, and an add to favorites module.
 
 Currently, the application fetches and displays the following data for each trending movie:
 
