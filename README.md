@@ -1,4 +1,4 @@
-# Cinephile
+# MovieHub
 
 ## Project Overview
 
@@ -18,9 +18,9 @@ I have used SnackBarService to show messages at the bottom of the application wi
 I am still under development, but I am excited to continue adding new features and functionality to Movie-Hub-Application. I hope that this application will become a valuable resource for movie lovers of all ages.
 
 ## Pro-Tip :
-Go to https://github1s.com/AAARCHIGANDHI/MOVIE-CRUISER-SPA-USING-TMDB-3RD-PARTY-API- for browsing through the code in the browser itself.
+Go to https://github1s.com/AAARCHIGANDHI/MOVIE-HUB-APPLICATION for browsing through the code in the browser itself.
 
-Go to https://drive.google.com/drive/folders/1DHM83cEMcSQpjxKjw47s5y6PE9Ph5GRJ?usp=sharing for seeing the glimpse(some snapshots of each module) of our Movie Cruiser Application.
+Go to https://drive.google.com/drive/folders/1DHM83cEMcSQpjxKjw47s5y6PE9Ph5GRJ?usp=sharing for seeing the glimpse(some snapshots of each module) of our MovieHub Application.
 
 ## Technologies used :
 
